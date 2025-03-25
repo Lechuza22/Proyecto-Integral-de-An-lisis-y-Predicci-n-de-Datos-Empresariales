@@ -6,16 +6,3 @@ matplotlib
 seaborn
 plotly
 folium
-geopandas
-networkx
-statsmodels
-xgboost
-lightgbm
-tensorflow
-keras
-prophet
-scipy
-joblib
-openpyxl
-pyarrow
-fastparquet
